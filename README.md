@@ -7,7 +7,7 @@ Hi 👋 I am a young developer from **Turkey**. I have enough experience on **ba
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://discord.gg/7y4a2Nz3xh" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
+<a href="https://discord.gg/7y4a2Nz3xh" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
