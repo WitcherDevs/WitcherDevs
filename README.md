@@ -1,6 +1,6 @@
 <h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheWTCHR">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheWTCHR&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
 Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am an "English Language Teaching" student but I have enough experience on web development and **I am a fullstack developer** that creates websites mostly for ~~free~~ fun.
