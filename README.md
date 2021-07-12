@@ -11,4 +11,4 @@ You can follow me on these platforms to get more information about me and follow
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
-<img alt="Python" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
