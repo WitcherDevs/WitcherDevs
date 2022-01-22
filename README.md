@@ -8,9 +8,8 @@ Hi 👋 I am a young developer from **Turkey**. I have enough experience on **ba
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
 <a href="https://discord.gg/7y4a2Nz3xh" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-
+![](https://komarev.com/ghpvc/?username=respect0&color=dc143c)
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
 <img alt="Python" align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Node.JS" align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-![](https://komarev.com/ghpvc/?username=respect0&color=dc143c)
