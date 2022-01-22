@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=TheWTCHR&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
-![](https://komarev.com/ghpvc/?username=respect0&color=dc143c)
+![](https://komarev.com/ghpvc/?username=TheWTCHR0&color=dc143c)
 
 Hi 👋 I am a young developer from **Turkey**. I have enough experience on **backend** development.
 
