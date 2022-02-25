@@ -1,7 +1,7 @@
 # ✨ Hi! I'm Witcher ✨.
 🖥️ I'm a back-end developer, who have 2 years experience. 🖥️
 
-![witcher profile](https://komarev.com/ghpvc/?username=TheWTCHR&color=blueviolet)
+![witcher_view](https://komarev.com/ghpvc/?username=TheWTCHR0&color=dc143c)
 
 # About me
 I'm almost 17 years old a junior developer. I love coding and game videos. I have 2 years experience and I'm doing this for fun.
@@ -22,5 +22,5 @@ If you want talk to me, you can contact me on discord.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWTCHR&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWTCHR&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)
 
