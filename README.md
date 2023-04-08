@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitcherDevs&theme=tokyonight" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitcherDevs&theme=tokyonight" /> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
