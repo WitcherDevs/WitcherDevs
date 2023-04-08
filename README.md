@@ -1,26 +1,31 @@
-# ✨ Hi! I'm Witcher ✨.
-🖥️ I'm a back-end developer, who have 2 years experience. 🖥️
+<h1 align="center">Hi, I'm Witcher. 👋</h1>
 
-![witcher_view](https://komarev.com/ghpvc/?username=TheWTCHR0&color=dc143c)
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a+backend+developer+with+two+year+of+experience." alt="WitcherDevs"/> </p>
 
-# About me
-I'm almost 17 years old a junior developer. I love coding and game videos. I have 2 years experience and I'm doing this for fun.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WitcherDevs&theme=github_dark" />
+</p>
 
-## 🌐 Techs & Langs🌐
-#### Langs
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-#### Frameworks & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<h2 align="center">Languages & Frameworks & Library & Tools</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-### Social
-If you want talk to me, you can contact me on discord.
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://discord.gg/users/299955838368612353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="witcher#0001" height="30" width="40" /></a>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/299955838368612353)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWTCHR&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)
-
-
-![witcher](https://github-readme-stats.vercel.app/api?username=TheWTCHR&show_icons=true&bg_color=353535&text_color=ABABAB&title_color=BC25E9&icon_color=BC25E9) 
 
