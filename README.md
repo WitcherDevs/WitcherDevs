@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 </div>
 <br>
-<p align="center"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitcherDevs&theme=tokyonight" /> </p>
+
+![](https://raw.githubusercontent.com/WitcherDevs/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
