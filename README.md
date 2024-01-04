@@ -25,7 +25,7 @@
 </div>
 <br>
 
-![](https://raw.githubusercontent.com/WitcherDevs/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<p align="center"> <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitcherDevs&theme=tokyonight" /> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
